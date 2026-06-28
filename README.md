@@ -2,6 +2,8 @@ Guess Game 🎮
 
 A simple and interactive number guessing game built using JavaScript, HTML, and CSS. The player tries to guess a randomly generated number within a limited number of attempts. The game provides hints such as "Too High" or "Too Low" to help the player find the correct answer. This project demonstrates JavaScript fundamentals, including DOM manipulation, event handling, conditional logic, and random number generation.
 
+The project is version-controlled with Git and has been uploaded to GitHub using Git commands, showcasing basic Git workflow skills such as repository initialization, file staging, committing changes, and pushing the project to a remote repository.
+
 Tech Stack: HTML, CSS, JavaScript
 
 Features:
